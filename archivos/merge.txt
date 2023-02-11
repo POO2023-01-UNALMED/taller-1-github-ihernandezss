@@ -1,1 +1,1 @@
-
+La razón por la que ahora sí se puede crear el commit en la carpeta "Archivos" es que ya tiene un archivo dentro de ella, en este caso respuesta.txt, el cual es necesario para que lo anteriormente hecho sea considerado como un cambio al cual, en efecto, se puede hacer commit.
