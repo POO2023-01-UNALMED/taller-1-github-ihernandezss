@@ -1,1 +1,3 @@
 Isabela Hernández Salazar,  18, mi aspiración con la materia es aprender más del paradigma y la programación en Java para poder crear aplicaciones con utilidad en la vida cotidiana.
+La razón por la que ahora sí se puede crear el commit en la carpeta "Archivos" es que ya tiene un archivo dentro de ella, en este caso respuesta.txt, el cual es necesario para que lo anteriormente hecho sea considerado como un cambio al cual, en efecto, se puede hacer commit.
+Es importante tener cuidado al modificar dos archivos (con el mismo nombre) al mismo tiempo ya que Github entra en un conflicto al no saber cuál de los dos cambios debe guardar, si el realizado en la web o el realizado dentro de la aplicación.
