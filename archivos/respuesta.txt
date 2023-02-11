@@ -1,0 +1,1 @@
+Sí ocurrió un problema, no se pudo hacer el commit ya que, aunque la carpeta "Archivos" fue creada, no tenía ningún archivo dentro de ella, lo cual no es considerado como cambio para Github.
